@@ -25,3 +25,5 @@ Python/SQL: For data cleaning and analysis (if applicable).
 Department-level filtering with interactive slicers.
 Visualizations for attrition by age, salary, job role, and more.
 Highlighted KPIs for quick insights.
+
+![Screenshot 2025-01-10 131112](https://github.com/user-attachments/assets/3d60458f-2d4d-41b5-9c42-dab1be54a89a)
